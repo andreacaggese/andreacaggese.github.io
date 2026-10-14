@@ -247,16 +247,6 @@ address { font-style: normal; }
 }
 .abstract p { margin: 0; }
 
-/* Compact list for older / Italian papers */
-.compact-list { list-style: none; padding: 0; margin: 0; }
-.compact-list li {
-  padding: 10px 0;
-  border-bottom: 1px solid var(--rule);
-  font-size: 0.95rem;
-}
-.compact-list li:last-child { border-bottom: none; }
-.compact-list .title { font-family: var(--serif); font-weight: 600; }
-
 /* ---------- Teaching page ---------- */
 .course {
   padding: 18px 0;
